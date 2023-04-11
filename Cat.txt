@@ -2,4 +2,8 @@ public class Cat{
 
   private String name;
 
+  public Cat(string name){
+    this.name = name;
+  }
+
 }
